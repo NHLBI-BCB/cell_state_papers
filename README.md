@@ -35,3 +35,8 @@ by pseudotemporal ordering of single cells** _Nature Biotech_.
 
 * Trapnel, C. 2015. **Defining cell types and states with single-cell genomics.** _Genome Research_.
 [Issue](https://github.com/gwaygenomics/cell_state_papers/issues/1)
+
+## Other
+
+* [Github repository cataloging pseudotime-based algorithm
+papers](https://github.com/agitter/single-cell-pseudotime)
