@@ -3,8 +3,8 @@
 ## Experiments
 
 * Moignard, V. _et al._ **Characterization of transcriptional networks in blood stem and
-progenitor cells using high-throughput single-cell gene expression analysis**
-__Nature Cell Biology__ :white_check_mark: 
+progenitor cells using high-throughput single-cell gene expression analysis**.
+_Nature Cell Biology_. :white_check_mark: 
 [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42518)
 
 * Buganim _et al._ 2012 **Single-Cell Expression Analyses during Cellular Reprogramming
