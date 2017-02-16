@@ -4,7 +4,8 @@
 
 * Moignard, V. _et al._ **Characterization of transcriptional networks in blood stem and
 progenitor cells using high-throughput single-cell gene expression analysis**.
-_Nature Cell Biology_. :white_check_mark: 
+_Nature Cell Biology_. :white_check_mark:
+[Issue](https://github.com/gwaygenomics/cell_state_papers/issues/3).
 [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42518)
 
 * Buganim _et al._ 2012 **Single-Cell Expression Analyses during Cellular Reprogramming
