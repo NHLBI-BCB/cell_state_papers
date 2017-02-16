@@ -23,6 +23,12 @@ Single Cell Experiments** _biorXiv_.
 [Issue](https://github.com/gwaygenomics/cell_state_papers/issues/4). :white_check_mark:
 [Source Code](https://github.com/mzwiessele/topslam)
 
+* Trapnel, C. _et al._ 2014 **The dynamics and regulators of cell fate decisions are revealed
+by pseudotemporal ordering of single cells** _Nature Biotech_.
+[Issue](https://github.com/gwaygenomics/cell_state_papers/issues/6). :white_check_mark:
+[Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE52529) :white_check_mark:
+[Source Code](http://cole-trapnell-lab.github.io/monocle-release/) 
+
 ## Theory
 
 ## Reviews
