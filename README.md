@@ -2,7 +2,7 @@
 
 ## Experiments
 
-* Moignard, V. _et al._ **Characterization of transcriptional networks in blood stem and
+* Moignard, V. _et al._ 2013. **Characterization of transcriptional networks in blood stem and
 progenitor cells using high-throughput single-cell gene expression analysis**.
 _Nature Cell Biology_. [Issue](https://github.com/gwaygenomics/cell_state_papers/issues/3).
 :white_check_mark: [Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42518)
