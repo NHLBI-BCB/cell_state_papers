@@ -2,7 +2,7 @@
 
 ## Experiments
 
-*Cao J. _et al._ 2017 **Comprehensive single cell transcriptional profiling of a multicellular organism by combinatorial indexing** _bioRxiv_. [Issue](https://github.com/gwaygenomics/cell_state_papers/issues/8). :x: Data
+* Cao J. _et al._ 2017 **Comprehensive single cell transcriptional profiling of a multicellular organism by combinatorial indexing** _bioRxiv_. [Issue](https://github.com/gwaygenomics/cell_state_papers/issues/8). :x: Data
 * Moignard, V. _et al._ 2013. **Characterization of transcriptional networks in blood stem and
 progenitor cells using high-throughput single-cell gene expression analysis**.
 _Nature Cell Biology_. [Issue](https://github.com/gwaygenomics/cell_state_papers/issues/3).
